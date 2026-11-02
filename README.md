@@ -49,3 +49,13 @@ The project uses sample student marks for demonstration.
 
 ## Author
 AI & Data Science Student
+
+
+## Visualizations
+
+### Student Average Marks
+![Student Average Marks](student_average_marks.png)
+
+### Subject-wise Average Marks
+![Subject-wise Average Marks](subject_wise_averages.png)
+
