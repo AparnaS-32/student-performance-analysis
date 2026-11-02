@@ -57,5 +57,4 @@ AI & Data Science Student
 ![Student Average Marks](student_average_marks.png)
 
 ### Subject-wise Average Marks
-![Subject-wise Average Marks](subject_wise_averages.png)
-
+![Subject-wise Average Marks](subfig_wise_averages.png)
